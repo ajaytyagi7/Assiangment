@@ -1,0 +1,7 @@
+.header{
+    background-image: linear-gradient(0deg,rgba(0, 0, 0, 0.482),rgba(0, 0, 0, 0.532)),
+    url(https://media.istockphoto.com/id/1435491075/photo/business-logistics-technology-concept.jpg?s=612x612&w=0&k=20&c=OyPiRP_B8k7XbQMqQg-d-FkpZrU7Lj5ayPKaEETXqsM=);
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+}
